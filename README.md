@@ -12,8 +12,8 @@ pkg install tsudo
 pkg install tsu
 
 kemudian anda download script hack wifi seperti di bawah ini
- git clone https://github.com/kumpulanremaja/wifi
- cd wifi
+ git clone https://github.com/iwakpeyek/WifiKu
+cd wifi
 chmod +x wifi-hacker.sh
 sh wifi-hacker.sh
 
